@@ -1,0 +1,67 @@
+set(HEADER_FILES
+    base.h
+    bd.h
+    bits.h
+    blobbs.h
+    ds.h
+    dt.h
+    env.h
+    fl.h
+    gnuplot.h
+    hash.h
+    hashmp.h
+    html.h
+    http.h
+    json.h
+    linalg.h
+    lx.h
+    md5.h
+    os.h
+    priorityqueue.h
+    shash.h
+    ss.h
+    ssmp.h
+    stdafx.h
+    tm.h
+    unicode.h
+    unicodestring.h
+    url.h
+    ut.h
+    wch.h
+    xfl.h
+    xmath.h
+    xml.h
+    xmlser.h
+    zipfl.h
+)
+
+set(SOURCE_FILES
+    base.cpp
+    bd.cpp
+    bits.cpp
+    blobbs.cpp
+    dt.cpp
+    env.cpp
+    fl.cpp
+    gnuplot.cpp
+    hash.cpp
+    html.cpp
+    http.cpp
+    json.cpp
+    linalg.cpp
+    lx.cpp
+    md5.cpp
+    os.cpp
+    ss.cpp
+    ssmp.cpp
+    tm.cpp
+    unicode.cpp
+    unicodestring.cpp
+    url.cpp
+    ut.cpp
+    wch.cpp
+    xfl.cpp
+    xmath.cpp
+    xml.cpp
+    zipfl.cpp
+)
